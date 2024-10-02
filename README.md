@@ -9,5 +9,4 @@ In my time at Disney I have progressed through many roles, starting first as an 
 
 ## Projects
 Here are a few things I've been working on:
-1. **Project A** - A cool app that does X.
-2. **Project B** - A website built with Y.
+1. [Animation Upgrade](project1.md)

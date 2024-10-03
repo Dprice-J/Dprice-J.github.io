@@ -1,6 +1,5 @@
-# Jacob Price
 # Biography
-
+I grew up out west in Oklahoma and moved to Orlando, Florida during middle school. By high school, I was living in Auburndale and began working at McLanes warehousing for two years until I heard about a technical apprenticeship through Disney. After applying and interviewing with the board, I was granted the apprenticeship and began a career at Walt Disney World. While working at Disney I have worked in their resorts, EPCOT’s Lighting crew, several Magic Kingdom attractions, and have ended up at Test Track to assist in their rehabilitation project going on until 2025. In the six years I have worked at Disney, I met my wife, we bought a house and are currently expecting our first baby. In my spare time I enjoy weightlifting, camping and cooking with my wife. I enjoy novel challenges and aim to grow my knowledge and technical skills to further progress in my career. 
 
 
 ## Career Summary and goals

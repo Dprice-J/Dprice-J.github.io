@@ -31,6 +31,30 @@
     .content {
       padding: 60px 20px; /* Added padding to avoid content being hidden under the fixed navbar */
     }
+    /* Profile Section styling */
+    .profile-section {
+      display: flex;
+      align-items: center;
+      margin-top: 50px;
+      text-align: left;
+    }
+    .profile-section img {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      margin-right: 20px;
+    }
+    .profile-text {
+      flex: 1;
+    }
+    .profile-text h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    .profile-text p {
+      font-size: 14px;
+      color: gray;
+    }
   </style>
 </head>
 <body>
@@ -43,6 +67,17 @@
     <a href="#projects">Projects</a>
   </div>
 
+  <!-- Profile Section -->
+  <div class="content">
+    <div class="profile-section">
+      <img src="your-photo.jpg" alt="Your Name">
+      <div class="profile-text">
+        <h1>Your Name</h1>
+        <p>Computer Ride and Show Technician | Aspiring Electrical Engineer</p>
+      </div>
+    </div>
+  </div>
+
   <!-- Main content with corresponding section IDs -->
   <div class="content">
     <h1 id="bio">Biography</h1>
@@ -50,8 +85,6 @@
 
     <h2 id="career">Career Summary and Goals</h2>
     <p>I have been a Computer Ride and Show Technician at Disney for the last six years. I have assisted with two ride controls rehab projects in my time at Disney, one at the American Adventure show and currently the one at the Test Track. This has given me professional skills in planning, delegating, and assisting the engineers when necessary to provide my knowledge of ride control systems. Technically, I have experience with Programmable Logic Controllers (PLCs), troubleshooting, and root cause analysis of system problems. I also have extensive experience with hydraulic and pneumatic systems from my time working on animatronic figures at the Carousel of Progress and the Jungle Cruise ride.</p>
-
-    <p>In my time at Disney, I have progressed through many roles, starting first as an electrician’s apprentice where I helped fix area lighting, kitchen equipment, HVAC systems, and power distribution systems. After completing and earning my certificate of completion from the union trade school, I moved into my current role after successfully meeting the necessary testing. Currently, I am working full-time while being a full-time student pursuing my degree in Electrical Engineering with a concentration in Control Systems. My background and technical training have made me passionate about different system designs and how all modern systems, from mechanical to pneumatic, are controlled by the electronics that we all use every day. My curiosity propels me further into learning and it is my goal to achieve a career that will utilize my electrical engineering degree, my background, and will present me with novel challenges.</p>
 
     <h2 id="resume">Resume</h2>
     <p>My resume can be found <a href="Resume_Jacob.html">here</a>.</p>
